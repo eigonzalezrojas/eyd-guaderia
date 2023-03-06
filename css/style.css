@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 1px solid red; */
+}
+
+body {
+  margin: 0px;
+  background-color: #fce1cb;
+  font-family: 'segoe ui';
+}
+  
+#logo{
+  width: 40%;
+}
+
+.nav-link{
+    color: #4e383d;
+    font-size: 20px;
+}
+
+.nav-item > a:hover {
+  background-color: #febeac;
+}
+
+.nav-item > #nav-check {
+  display: none;
+}
+
+.text-card h2,p{
+    color: #4e383d;
+    text-align: justify;
+}
+
+
+.footer{
+  background-color: #febeac;
+}
+
+
+
